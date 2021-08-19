@@ -158,3 +158,4 @@ C:\Clientes\BeCotton\Sistema-Ventas\Sistema-Ventas\bin\Debug\net5.0\zh-Hant\Micr
 C:\Clientes\BeCotton\Sistema-Ventas\Sistema-Ventas\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Clientes\BeCotton\Sistema-Ventas\Sistema-Ventas\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Clientes\BeCotton\Sistema-Ventas\Sistema-Ventas\obj\Debug\net5.0\Razor\Areas\Users\Views\Users\Users.cshtml.g.cs
+C:\Clientes\BeCotton\Sistema-Ventas\Sistema-Ventas\obj\Debug\net5.0\Razor\Areas\Users\Views\_ViewStart.cshtml.g.cs

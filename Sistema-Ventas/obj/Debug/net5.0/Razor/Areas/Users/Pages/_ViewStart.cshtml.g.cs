@@ -27,7 +27,7 @@ using Sistema_Ventas.Areas.Users.Pages;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f8a0a8d1561dbed1a34985f6a66d6ee97fb4e721", @"/Areas/Users/Pages/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"cc316e201248eb2424488ded2b12de82540ba6fa", @"/Areas/Users/Pages/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"387a066e85505fa76be95db549cc65567fd0ec16", @"/Areas/Users/Pages/_ViewImports.cshtml")]
     public class Areas_Users_Pages__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
